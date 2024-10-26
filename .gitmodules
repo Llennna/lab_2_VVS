@@ -1,0 +1,3 @@
+[submodule "libs/mylib"]
+	path = libs/mylib
+	url = https://github.com/Llennna/lab_2_VVS.git
